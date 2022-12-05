@@ -1,10 +1,6 @@
-# Pizza-for-president Landing page made with React
+# Uppercuts Landing page made with React
 
-A Pizza Site built with React.
-
-## Demo
-
-[Link](https://pizza-for-president.vercel.app/)
+A saloon Site built with React.
 
 ## Getting Started
 
