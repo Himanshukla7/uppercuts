@@ -5,6 +5,8 @@ import { GlobalStyle } from './globalStyles';
 import { productData, productDataTwo } from './components/Products/data';
 import Feature from './components/Feature/Feature';
 import Footer from './components/Footer/Footer';
+import Table from './components/Table/Table';
+
 
 function App() {
 	return (
@@ -13,6 +15,7 @@ function App() {
 			<Hero />
 		        <Products heading='Choose your favourite' data={productData} />
 			 <Feature />
+			<Table />
 			 <Footer />
 		</Router>
 	);
